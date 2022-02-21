@@ -1,0 +1,6 @@
+[submodule "CTRLokal-API"]
+	path = CTRLokal-API
+	url = https://github.com/CTRLCutter/CTRLokal-API.git
+[submodule "CTRLokal-Backend"]
+	path = CTRLokal-Backend
+	url = https://github.com/CTRLCutter/CTRLokal-Backend.git
