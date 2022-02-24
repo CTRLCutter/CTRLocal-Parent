@@ -22,14 +22,6 @@
 		<module>CTRLokal-Backend</module>
 	</modules>
 
-	<dependencies>
-		<dependency>
-			<groupId>com.ctrlcutter.backend</groupId>
-			<artifactId>CTRLokal-Backend</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
