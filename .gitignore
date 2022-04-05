@@ -23,3 +23,6 @@ HELP.md
 *.iws
 *.iml
 *.ipr
+
+### MacOS ####
+.DS_Store
